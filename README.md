@@ -1,5 +1,3 @@
-# MarcotaV
-(Informatorio2025)
 # 🐾 Mascota Virtual
 
 Una mascota virtual con la que podés jugar, alimentar y ver cómo cambia su estado de ánimo. Ideal para practicar lógica de programación, clases y métodos en Python.
@@ -22,7 +20,7 @@ Una mascota virtual con la que podés jugar, alimentar y ver cómo cambia su est
 
 1. Cloná el repositorio o descargá los archivos:
    ```bash
-   git clone https://github.com/AlexiasXro/MarcotaV.git
+   git clone https://github.com/AlexiasXro/MascotaV.git
 
 2. Asegurate de tener Python 3 instalado en tu sistema.
 
