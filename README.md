@@ -13,8 +13,8 @@ Una mascota virtual con la que podés jugar, alimentar y ver cómo cambia su est
   - Muy hambrienta
   - Muy triste
   - Contenta y satisfecha
-![Vista previa](\Macota virtual\IMG.png)
 ---
+![Vista previa](IMG.png)
 
 ## 🚀 Instalación
 
